@@ -10,4 +10,4 @@ Algumas páginas foram desenvolvidas apenas em HTML e CSS, já outras possuem in
 No meu perfil aqui do GitHub tem alguns projetos desenvolvidos por mim com os códigos liberados. Acesse o meu repositório [clicando aqui](https://github.com/matheuspomoviski/Paginas-estaticas). Esse repositório é dos meus estudos de HTML e CSS, sendo apenas páginas estáticas.
 
 # Acesse as páginas pelos links abaixo:
-- [pagina-login-inspiracao-instagram](https://github.com/matheuspomoviski/Paginas-criadas-curso-udemy-HTML-CSS-JS-REACT/tree/main/Inspira%C3%A7%C3%A3o_home_instagram)
+- [pagina-login-inspiracao-instagram](Inspiração_home_instagram/index.html)
