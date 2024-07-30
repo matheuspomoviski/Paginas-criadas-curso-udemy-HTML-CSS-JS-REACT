@@ -12,4 +12,4 @@ No meu perfil aqui do GitHub tem alguns projetos desenvolvidos por mim com os c�
 # Acesse as paginas pelos links abaixo:
 
 - [Inspiração pagina de login do Instagram](https://matheuspomoviski.github.io/Paginas-criadas-curso-udemy-HTML-CSS-JS-REACT/Inspira%C3%A7%C3%A3o_home_instagram/)
-- [Pagina serviços na nuvem](matheuspomoviski.github.io/Paginas-criadas-curso-udemy-HTML-CSS-JS-REACT/blob/main/HDC_HOST/index.html)
+- [Pagina serviços na nuvem](matheuspomoviski.github.io/Paginas-criadas-curso-udemy-HTML-CSS-JS-REACT/HDC_HOST/index.html)
