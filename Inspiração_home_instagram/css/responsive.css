@@ -1,0 +1,43 @@
+/* Celulares */
+
+@media (max-width: 450px){
+    body{
+        background-color: #fff ;
+    }
+    #banner-container{
+        display: none;
+    }
+
+
+    #main-container, #img-box{
+        margin-top: 0;
+    }
+
+
+    #form-container, #img-box, #register-container, .get-app-container{
+        width: 100%;
+        border: none;
+    }
+   
+
+    .footer{
+        width: 90%;
+    }
+
+    .footer-links{
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 30px;
+
+    }
+
+}
+
+/* tablets */
+
+@media (max-width: 800px){
+
+    #banner-container, #form-container{
+        padding: 18px;
+    }
+}
