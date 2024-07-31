@@ -81,7 +81,7 @@ nav{
 /*main banner - a foto com o destaque do site*/
 .main-banner{
     /*a propriedade background-image faz a imagem ficar dentro do tamanho da div/main (ou elemento pai que for inserido)*/
-    background-image: url(img./bg-top.jpg);
+    background-image: url(./img/bg-top.jpg);
     background-position: center;
     background-size: cover;
     padding: 15rem 0;
